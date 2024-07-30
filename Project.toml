@@ -18,7 +18,7 @@ TimerOutputs = "a759f4b9-e2f1-59dc-863e-4aeb61b1ea8f"
 
 [compat]
 AbstractTrees = "0.4"
-DataInterpolations = "5"
+DataInterpolations = "5, 6"
 HDF5 = "0.16.14"
 JSON = "0.21"
 OrderedCollections = "1"
